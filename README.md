@@ -115,8 +115,3 @@ In advanced stages, the focus shifts to improving query performance. Some optimi
 
 ## Contributing
 If you would like to contribute to this project, feel free to fork the repository, submit pull requests, or raise issues.
-
----
-
-## License
-This project is licensed under the MIT License.
